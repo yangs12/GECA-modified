@@ -6,7 +6,8 @@ pip install -r requirements.txt
 cd exp
 ```
 
-**Run the config `context=2` to see if it works!** :)
+**Run the config `context=2` to see if it works! :) **
+
 Only two babylm data files "aochildes" and "switchboard" are added in the sh files.
 ```
 sh run_test.sh
