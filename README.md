@@ -2,7 +2,6 @@
 ```
 conda create --name geca python=3.9
 conda activate geca
-cd geca-master
 pip install -r requirements.txt
 cd exp
 ```
