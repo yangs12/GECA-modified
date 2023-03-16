@@ -6,14 +6,15 @@ pip install -r requirements.txt
 cd exp
 ```
 
-**Run the `context=2` to see if it works!**
+**Run the config `context=2` to see if it works!** :)
 Only two babylm data files "aochildes" and "switchboard" are added in the sh files.
 ```
 sh run_test.sh
 ```
-If it works, there are augmented `.train` in folder `augment_context2` and output files in `context2`. (it takes < 1 min)
+If it works, there are augmented `.train` files in folder `augment_context2` and output files in folder `context2`. 
 
-Then... try `context=3` and `context=1`... hopefully they will work
+
+Then... try `context=3` and `context=1`... hopefully they will work!!
 ```
 sh run_context1.sh
 sh run_context3.sh
