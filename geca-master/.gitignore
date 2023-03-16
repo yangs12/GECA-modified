@@ -1,8 +1,0 @@
-*.pyc
-__pycache__
-*.chk
-*.swp
-*.arpa
-params.*
-params
-**/state
